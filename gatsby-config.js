@@ -34,7 +34,6 @@ module.exports = {
         pluginConfig: {
           head: true,
           respectDNT: true,
-          origin: "https://omftc.netlify.app",
           delayOnRouteUpdate: 0,
         },
       },
