@@ -15,7 +15,7 @@ module.exports = {
       summary: `who lives in Munich and builds interesting things.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://omftc.netlify.app/`,
     social: {
       linkedin: `jihweiliang`,
     },
